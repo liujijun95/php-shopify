@@ -7,7 +7,7 @@ PHPShopify is a simple SDK implementation of Shopify API. It helps accessing the
 ## Installation
 Install with Composer
 ```shell
-composer require phpclassic/php-shopify
+composer require liujijun/php-shopify
 ```
 
 ### Requirements
